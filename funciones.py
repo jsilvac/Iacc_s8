@@ -1,3 +1,7 @@
+
+# se precisa para mejor visualizacion y ejecucion del programa
+# instalkar e importar las librerias de prettytable y colorama
+
 import json
 from prettytable import PrettyTable
 from colorama import Fore, Style

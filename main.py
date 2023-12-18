@@ -1,3 +1,7 @@
+
+# Al iniciar el codigo, se creara un JSON con alguno medicamentos ya cargado9s para pruebas
+# y tambien se podra agregar o modificar las cantidades de los ya existentes
+
 from funciones import cargaJson, muestraTabla, ingresaNewMedicamento, modificaMedicamento,validaInputStr, validaInputInt
 
 medicamentos = cargaJson()
